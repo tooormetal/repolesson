@@ -1,1 +1,2 @@
-print ('ya Pasha')
+name = "ya Pasha"
+print ('name')
